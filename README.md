@@ -1,0 +1,2 @@
+# FirstBintrayRepository
+Jcenter#*bintray
